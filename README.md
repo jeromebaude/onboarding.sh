@@ -13,6 +13,8 @@ Then run:
 ````
 chmod +x onboarding_azure.sh
 ./onboarding_azure.sh
+chmod +x onboarding_k8s.sh
+./onboarding_k8s.sh
 ````
  
 (disclaimer: Scripts are my own and are provided without support)
