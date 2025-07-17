@@ -9,7 +9,7 @@ We divided the global script above into 2 parts targetting different personas:
 
 Please update the variables where you see "ToBeDefined"
 
-Then run:
+Then run onboarding_azure.sh before running onboarding_k8s.sh:
 ````
 chmod +x onboarding_azure.sh
 ./onboarding_azure.sh
